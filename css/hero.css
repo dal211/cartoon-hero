@@ -6,7 +6,7 @@ body{
 }
 
 header{
-  background-color: lightgreen;
+  background-color: #5D4037;
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -40,28 +40,29 @@ main img {
 
 h2{
   font-size: 35px;
-  color: darkgreen;
+  color: #5D4037;
   margin: 40px 0 10px;
 }
 
 a{
-  color:darkgreen;
+  color:#5D4037;
 }
 
 /* Whenever you hover on any "a" element you want it to the change the color */
 a:hover {
   color:white;
-  background-color: lightgreen;
+  background-color: #5D4037;
 }
 
 footer{
-  background-color: lightgreen;
+  background-color: #5D4037;
   text-align: center;
   padding: 50px
 }
 
 footer p{
   margin: 0;
+  color:white;
 }
 
 /*
